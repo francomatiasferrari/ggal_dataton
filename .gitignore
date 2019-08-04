@@ -1,6 +1,7 @@
 .ipynb_checkpoints
 banco-galicia-dataton-2019.zip
 banco-galicia-dataton-2019/
+data/
 LightGBM/
 env/
 **.DS_Store
