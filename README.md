@@ -5,5 +5,5 @@ Repositorio compartido para modelar en el evento dataton del banco Galicia.
 ## Contributors:
   - Franco Ferrari @francomatiasferrari
   - Ale Masseroli @alemasseroli
-  - Lorena Batlle 
+  - Lorena Batlle @LorenaBatlle
   - Carlos Flury @floricar
