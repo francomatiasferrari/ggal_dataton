@@ -4,6 +4,7 @@ banco-galicia-dataton-2019/
 data/
 LightGBM/
 env/
+env3/
 **.DS_Store
 .vscode
 *.csv
